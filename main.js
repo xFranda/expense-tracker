@@ -8,6 +8,7 @@ const $amountText = document.getElementById("amountText");
 const $btnAddTransaction = document.getElementById("btnAddTransaction");
 const $historyListContainer = document.getElementById("historyListContainer");
 
+// Me gusta el pan
 // Function to generate a Random ID
 function generateUID() {
   return Math.random().toString(36).slice(2);
